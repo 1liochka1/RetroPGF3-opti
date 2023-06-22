@@ -94,8 +94,8 @@ abi = [{"inputs": [{"components": [{"internalType": "address", "name": "target",
 
 wallets = []
 results = []
-def sleep_indicator(time):
-    for i in tqdm(range(time), desc='жду', bar_format="{desc}: {n_fmt}c /{total_fmt}c {bar}", colour='green'):
+def sleep_indicator(secs):
+    for i in tqdm(range(secs), desc='жду', bar_format="{desc}: {n_fmt}c /{total_fmt}c {bar}", colour='green'):
         time.sleep(1)
 def check_status_tx(tx_hash, address, w3):
     logger.info(f'{address} - жду подтверждения транзакции : https://optimistic.etherscan.io/tx/{to_hex(tx_hash)}...')
