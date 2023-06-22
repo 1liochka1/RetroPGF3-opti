@@ -1,4 +1,4 @@
-<h1 align="center">RetroPGF3 mintero</h1>
+<h1 align="center">RetroPGF3 minter</h1>
 
 <h2>О боте</h2>
 Бот для минт нфт на https://optimism.decent.xyz/</br>
