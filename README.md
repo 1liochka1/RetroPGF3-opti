@@ -18,5 +18,6 @@
 2. Вывод результатов в таблицу
 
 
-<h2>донат</h2>  evm 0xFD6594D11b13C6b1756E328cc13aC26742dBa868 trc20 TMmL915TX2CAPkh9SgF31U4Trr32NStRBp
+<h2>донат</h2>  evm 0xFD6594D11b13C6b1756E328cc13aC26742dBa868 
+trc20 TMmL915TX2CAPkh9SgF31U4Trr32NStRBp
 <h2>тг</h2> https://t.me/iliocka
